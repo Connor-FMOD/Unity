@@ -9729,7 +9729,7 @@ MonoBehaviour:
       Data4: 455350097
     Path: event:/SAW
   Event: 
-  PlayEvent: 0
+  PlayEvent: 1
   StopEvent: 0
   AllowFadeout: 1
   TriggerOnce: 0
