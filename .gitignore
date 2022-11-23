@@ -80,3 +80,5 @@ Integration/obj/
 Integration/Temp/
 
 Integration/Asset/plugin/FMOD/Cache
+Integration/Logs/
+Integration/Assets/Plugins/FMOD/Cache/
