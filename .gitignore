@@ -78,5 +78,7 @@ fmod_editor.log
 Integration/Library/
 Integration/obj/
 Integration/Temp/
-Integration/Logs/
 
+Integration/Asset/plugin/FMOD/Cache
+Integration/Logs/
+Integration/Assets/Plugins/FMOD/Cache/
